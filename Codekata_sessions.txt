@@ -1,0 +1,5 @@
+JS-basics
+let,var,const
+arrays,objects
+for,if,operators,
+js history
